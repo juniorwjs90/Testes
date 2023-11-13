@@ -1,12 +1,7 @@
-import junit.framework.Assert;
-import org.example.Main;
 import org.example.Operacoes;
 import org.junit.Test;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.DisplayName;
-
-import static org.junit.Assert.assertEquals;
-
 
 public class Maintest {
     @Test
